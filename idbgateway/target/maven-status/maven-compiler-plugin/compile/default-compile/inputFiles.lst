@@ -1,0 +1,3 @@
+/home/izaias/projetos/java/courses/course-devdojo-microservices/idbgateway/src/main/java/br/com/idb/idbgateway/config/SecurityConfig.java
+/home/izaias/projetos/java/courses/course-devdojo-microservices/idbgateway/src/main/java/br/com/idb/idbgateway/filter/GatewayJwtTokenAuthorizationFilter.java
+/home/izaias/projetos/java/courses/course-devdojo-microservices/idbgateway/src/main/java/br/com/idb/idbgateway/IdbGatewayApplication.java

@@ -1,0 +1,3 @@
+br/com/idb/idbcourse/endpoint/controller/CourseController.class
+br/com/idb/idbcourse/IdbcourseApplication.class
+br/com/idb/idbcourse/endpoint/service/CourseService.class

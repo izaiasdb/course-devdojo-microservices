@@ -1,0 +1,5 @@
+META-INF/spring-configuration-metadata.json
+br/com/idb/idbcore/model/AbstractEntity.class
+br/com/idb/idbcore/repository/CourseRepository.class
+br/com/idb/idbcore/model/Course.class
+br/com/idb/idbcore/model/Course$CourseBuilder.class

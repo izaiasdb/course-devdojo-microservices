@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: izaias
+Build-Jdk: 11.0.11
+Implementation-Title: idbdiscovery
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.idb
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/course-devdojo-microservices/idbdiscovery
+Created-By: Maven Integration for Eclipse
+
