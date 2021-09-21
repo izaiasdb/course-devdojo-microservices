@@ -1,5 +1,11 @@
+br/com/idb/idbcore/model/ApplicationUser.class
 META-INF/spring-configuration-metadata.json
 br/com/idb/idbcore/model/AbstractEntity.class
+br/com/idb/idbcore/property/JwtConfiguration$Header.class
 br/com/idb/idbcore/repository/CourseRepository.class
+br/com/idb/idbcore/docs/BaseSwaggerConfig.class
 br/com/idb/idbcore/model/Course.class
 br/com/idb/idbcore/model/Course$CourseBuilder.class
+br/com/idb/idbcore/model/ApplicationUser$ApplicationUserBuilder.class
+br/com/idb/idbcore/property/JwtConfiguration.class
+br/com/idb/idbcore/repository/ApplicationUserRepository.class

@@ -13,9 +13,13 @@ postgres yml stack
 https://hub.docker.com/_/postgres
 https://hub.docker.com/_/mysql
 
-cd ~/projetos/java/courses/course-devdojo-microservices/idbcourse
+cd projetos/java/cursos/devdojo/course-devdojo-microservices/idbcourse
 sudo docker-compose -f stack.yml up
 sudo docker-compose -f stack.yml down
+
+########################### OBS
+Criei a conexão mysql e depois o banco devdojo
+
 ########################### Aula-02
 mv clean install -DskipTests (n rodei, só o clean e install mesmo)
 
@@ -39,7 +43,11 @@ auth
 course
 
 password gerado no test do auth, colocar no banco
-$2a$10$xu/HdZGnOwc96xlFSs8iJ.snuWFMiUHfkIJqCZDye.4Od0fCX1PcC
+senhha: $2a$10$xu/HdZGnOwc96xlFSs8iJ.snuWFMiUHfkIJqCZDye.4Od0fCX1PcC
+INSERT INTO devdojo.application_user
+(id, password, `role`, username)
+VALUES(1, '$2a$10$xu/HdZGnOwc96xlFSs8iJ.snuWFMiUHfkIJqCZDye.4Od0fCX1PcC', 'ADMIN', 'devdojo');
+
 
 ########################### Aula-09
 http://localhost:8080/gateway/auth/swagger-ui.html

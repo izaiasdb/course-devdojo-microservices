@@ -1,6 +1,7 @@
-/home/izaias/projetos/java/courses/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/property/JwtConfiguration.java
-/home/izaias/projetos/java/courses/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/repository/ApplicationUserRepository.java
-/home/izaias/projetos/java/courses/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/repository/CourseRepository.java
-/home/izaias/projetos/java/courses/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/model/AbstractEntity.java
-/home/izaias/projetos/java/courses/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/model/Course.java
-/home/izaias/projetos/java/courses/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/model/ApplicationUser.java
+/home/isaias/projetos/java/cursos/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/property/JwtConfiguration.java
+/home/isaias/projetos/java/cursos/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/model/ApplicationUser.java
+/home/isaias/projetos/java/cursos/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/model/AbstractEntity.java
+/home/isaias/projetos/java/cursos/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/repository/CourseRepository.java
+/home/isaias/projetos/java/cursos/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/docs/BaseSwaggerConfig.java
+/home/isaias/projetos/java/cursos/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/model/Course.java
+/home/isaias/projetos/java/cursos/course-devdojo-microservices/idbcore/src/main/java/br/com/idb/idbcore/repository/ApplicationUserRepository.java

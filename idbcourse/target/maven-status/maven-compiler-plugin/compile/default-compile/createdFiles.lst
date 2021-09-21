@@ -1,3 +1,5 @@
 br/com/idb/idbcourse/endpoint/controller/CourseController.class
-br/com/idb/idbcourse/IdbcourseApplication.class
+br/com/idb/idbcourse/security/config/SecurityCredentialsConfig.class
 br/com/idb/idbcourse/endpoint/service/CourseService.class
+br/com/idb/idbcourse/docs/SwaggerConfig.class
+br/com/idb/idbcourse/IdbCourseApplication.class

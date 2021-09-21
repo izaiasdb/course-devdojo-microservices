@@ -1,0 +1,5 @@
+br/com/idb/idbtoken/security/token/creator/TokenCreator.class
+br/com/idb/idbtoken/security/filter/JwtTokenAuthorizationFilter.class
+br/com/idb/idbtoken/security/config/SecurityTokenConfig.class
+br/com/idb/idbtoken/security/util/SecurityContextUtil.class
+br/com/idb/idbtoken/security/token/converter/TokenConverter.class
